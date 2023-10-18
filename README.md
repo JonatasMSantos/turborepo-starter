@@ -4,6 +4,7 @@ Este é um projeto starter kit que utiliza o TurboRepo para gerenciar um monorep
 
 ## Estrutura de Diretórios
 
+```text
 /
 |-- apps/
 | |-- docs/
@@ -17,7 +18,7 @@ Este é um projeto starter kit que utiliza o TurboRepo para gerenciar um monorep
 |-- .turboignore
 |-- .turborepo.json
 |-- README.md
-
+```
 
 - **`apps/`**: Esta pasta contém os aplicativos do projeto.
   - **`docs/`**: Aplicativo de documentação.
